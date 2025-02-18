@@ -1,9 +1,7 @@
 # SafeClaim 1.18 - 1.21.4
 
 ## Introduction
-is a simple plugin that prevents the player, entity from 
-getting damaged but also cant break any blocks in there and 
-explosions doesnt break anything.
+This simple plugin prevents players and entities from taking damage while also restricting them from breaking blocks. Additionally, explosions will not cause any block destruction.
 
 ## Info
 **/SafeClaim**
