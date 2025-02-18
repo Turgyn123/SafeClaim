@@ -1,0 +1,4 @@
+name: SafeClaim
+version: '${project.version}'
+main: net.safeclaim.Main
+api-version: '1.19'
